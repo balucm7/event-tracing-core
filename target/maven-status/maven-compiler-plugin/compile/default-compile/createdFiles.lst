@@ -1,0 +1,3 @@
+com\event\tracing\core\TracingAspect.class
+com\event\tracing\core\Traceable.class
+com\event\tracing\core\OpenTelemetryConfig.class
